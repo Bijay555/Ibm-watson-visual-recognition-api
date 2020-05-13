@@ -20,5 +20,7 @@ To run, click on the code cell below and press "shift + enter".
 NOTE - The Watson Developer Cloud Package has been deprecated and has been replaced by the IBM Watson Package
 
 > ! pip install --upgrade ibm-watson 
+
+
 > ! pip install --upgrade opencv-python
 
