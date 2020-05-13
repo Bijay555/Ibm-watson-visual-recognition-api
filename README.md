@@ -4,7 +4,7 @@ In this repository,I am using IBM watson visual recognition classifier api with 
 ![alt text](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/CV0101/Logo/SNLogo.png)
 
 
-IBM Watson Package 
+### IBM Watson Package 
 
 
 In order to run this lab we need to import two packages.
@@ -20,4 +20,5 @@ To run, click on the code cell below and press "shift + enter".
 NOTE - The Watson Developer Cloud Package has been deprecated and has been replaced by the IBM Watson Package
 
 > ! pip install --upgrade ibm-watson 
+> ! pip install --upgrade opencv-python
 
