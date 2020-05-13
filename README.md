@@ -18,6 +18,6 @@ The code below will install Watson Developer Cloud and OpenCV.
 To run, click on the code cell below and press "shift + enter".
 
 NOTE - The Watson Developer Cloud Package has been deprecated and has been replaced by the IBM Watson Package
-'''python
-! pip install --upgrade ibm-watson 
-'''
+
+> ! pip install --upgrade ibm-watson 
+
